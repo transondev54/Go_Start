@@ -1,0 +1,5 @@
+=== KẾT QUẢ BMI ===
+Cân nặng: 50.00 kg
+Chiều cao: 1.65 m
+BMI: 18.37
+Phân loại: Gầy (Underweight)
