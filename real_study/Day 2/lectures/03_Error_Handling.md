@@ -31,7 +31,7 @@ type error interface {
 
 ## 2️⃣ RETURNING ERRORS
 
-### Ví dụ cơ bản
+### Ví dụ cơ bản1
 
 ```go
 import \"errors\"
